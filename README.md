@@ -8,6 +8,10 @@
   🚀 Fullstack-Developer in Weiterbildung • Standort: Lübeck 🌊
 </p>
 
+<p align="center">
+  💡 Mein Motto: „Wenn du immer nur das tust, was du schon kannst, wirst du immer das bleiben, was du schon bist“
+</p>
+
 ---
 
 ### 👨‍💻 Über mich
