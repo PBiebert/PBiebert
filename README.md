@@ -50,6 +50,7 @@ Ich freue mich auf spannende Projekte und den Austausch mit anderen Entwicklern 
 ### 🌍 Projekte & Arbeiten
 - 🔨 Aktuelle Projekte (Auswahl):
   - 📌 **Bestellapp** (HTML,CSS,JS)
+  - 📌 **Pokedex** (HTML,CSS,JS)
 
 Mehr in Repos → Work in progress 🚧
 
