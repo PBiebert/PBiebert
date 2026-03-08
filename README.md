@@ -30,32 +30,32 @@ Ich freue mich auf spannende Projekte und den Austausch mit anderen Entwicklern 
 ---
 
 ### 🧰 Tech-Stack
-**Frontend**
+**Frontend**  
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,rxjs,materialui,bootstrap" />
 </div>
 
-**Backend**
+**Backend**  
 <div>
-  <img src="https://skillicons.dev/icons?i=python,django,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,redis,firebase" />
 </div>
 
-**Tools**
+**Tools & Methoden**  
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,heroku" />
 </div>
-
 ---
 
 ### 🌍 Projekte & Arbeiten
 - 🔨 Aktuelle Projekte (Auswahl):
-  - 📌 **Bestellapp** (HTML,CSS,JS)
-  - 📌 **Pokedex** (HTML,CSS,JS)
+  - 📌 **Join** (HTML,CSS,TS,Angular)
+  - 📌 **Sharkie** (HTML,CSS,JS)
+  - 📌 **JS-Pokedex** (HTML,CSS,JS)
 
 Mehr in Repos → Work in progress 🚧
 
 ---
 
 ### 📫 Kontakt & Profile
-- 📧 **philipp.biebert@gmail.com**
+- 📧 **contact@philippbiebert.de**
 - 💼 LinkedIn: [Philipp A. Biebert](https://www.linkedin.com/in/philipp-alexander-biebert-55258737a/)
