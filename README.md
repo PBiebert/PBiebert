@@ -15,9 +15,9 @@
 ---
 
 ### 👨‍💻 Über mich
-Vom Bauleiter im Hochbau zum Fullstack-Developer in Ausbildung – neue Wege, gleiche Leidenschaft fürs Bauen.  
-Ich entwickle moderne Web-Anwendungen und verbinde dabei Frontend, Backend & Cloud zu durchdachten digitalen Lösungen.  
-Strukturiert, verantwortungsbewusst und lösungsorientiert – genau wie auf der Baustelle, nur jetzt im Code 💻✨  
+#### Full-Stack Developer | „Vom Bauplan zum Backend“
+Vom Bauleiter zum Code-Stratege: Ich baue nicht nur Häuser, sondern auch smarte Web-Lösungen. Mit Projektmanagement, Teamführung und analytischem Denken forme ich Frontend-, Backend- und Cloud-Projekte, die funktionieren. Mein Motto treibt mich an: „Wenn du immer nur das tust, was du schon kannst, wirst du immer das bleiben, was du schon bist.“
+💻✨  
 
 - 💻 Fullstack-Entwickler in Weiterbildung (Developer Akademie)  
 - ⚡ Frontend-Fokus: HTML5, CSS3, JavaScript, React, Angular & TypeScript  
