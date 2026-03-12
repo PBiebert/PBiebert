@@ -32,7 +32,7 @@ Ich freue mich auf spannende Projekte und den Austausch mit anderen Entwicklern 
 ### 🧰 Tech-Stack
 **Frontend**  
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,rxjs,materialui,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,rxjs,bootstrap" />
 </div>
 
 **Backend**  
