@@ -37,7 +37,7 @@ Ich freue mich auf spannende Projekte und den Austausch mit anderen Entwicklern 
 
 **Backend**  
 <div>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,redis,firebase,supabase" />
 </div>
 
 **Tools & Methoden**  
