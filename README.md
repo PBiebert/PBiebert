@@ -52,10 +52,11 @@ Ich freue mich auf spannende Projekte und den Austausch mit anderen Entwicklern 
   - 📌 **Sharkie** (HTML,CSS,JS)
   - 📌 **JS-Pokedex** (HTML,CSS,JS)
 
-Mehr in Repos → Work in progress 🚧
+More in progress 🚧
 
 ---
 
 ### 📫 Kontakt & Profile
+- 🌐 Website: [www.philippbiebert.de](https://www.philippbiebert.de/)
 - 📧 **contact@philippbiebert.de**
 - 💼 LinkedIn: [Philipp A. Biebert](https://www.linkedin.com/in/philipp-alexander-biebert-55258737a/)
