@@ -48,6 +48,7 @@ Ich freue mich auf spannende Projekte und den Austausch mit anderen Entwicklern 
 
 ### 🌍 Projekte & Arbeiten
 - 🔨 Aktuelle Projekte (Auswahl):
+  - 📌 **KanMind** (Python,Django,Django Rest framework) 
   - 📌 **Join** (HTML,CSS,TS,Angular)
   - 📌 **Sharkie** (HTML,CSS,JS)
   - 📌 **JS-Pokedex** (HTML,CSS,JS)
